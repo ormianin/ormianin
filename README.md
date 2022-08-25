@@ -1,10 +1,9 @@
 # sobre mim
 
 - 👋 oi, eu sou a lin
-- 👀 eu gosto de arte
+- 💞️ eu gosto de arte
 - 🌱 eu estou aprendendo a programar novas linguagens
 - 🦖 kian sabe 
-- 💞️ abluébluéblué
 - 👎 a ironia do destino é realmente uma divina comédia
 
 <!---
