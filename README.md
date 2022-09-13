@@ -3,8 +3,7 @@
 - 👋 oi, eu sou a lin
 - 💞️ eu gosto de arte
 - 🌱 eu estou aprendendo a programar novas linguagens
-- 🦖 kian sabe 
-- 👎 a ironia do destino é realmente uma divina comédia
+- 🦖 A verdadeira arte é só um reflexo dos sentimentos de quem a contempla.
 
 <!---
 ormianin/ormianin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
